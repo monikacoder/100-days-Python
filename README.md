@@ -9,5 +9,6 @@ My Replit profile is here - https://replit.com/@monikarana
 | Day 14  | https://replit.com/@monikarana/day14RockPaperScissor  |Rock Paper Scissor game - intermediate level|
 | Day 18  | https://replit.com/@monikarana/day18100-days  |A basic version of Guess the Number game|
 | Day 19  | https://replit.com/@monikarana/day19100-days  |While loop demo|
+| Day 20  | https://replit.com/@monikarana/day20100-days  |For loop demo|
 
 
