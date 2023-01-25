@@ -14,6 +14,7 @@ My Replit profile is here - https://replit.com/@monikarana
 | Day 23  | https://replit.com/@monikarana/day23100-days  |2-Users logon function|
 | Day 24  | https://replit.com/@monikarana/day24100-days-of-code  |simple function with parameters|
 | Day 25  | https://replit.com/@monikarana/day-25100-days-of-code  |more function with parameters|
+| Day 27  | https://replit.com/@monikarana/day-27100-days-of-code  |time.sleep and os.clear|
 
 
 
