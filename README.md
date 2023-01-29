@@ -16,6 +16,7 @@ My Replit profile is here - https://replit.com/@monikarana
 | Day 25  | https://replit.com/@monikarana/day-25100-days-of-code  |more function with parameters|
 | Day 27  | https://replit.com/@monikarana/day-27100-days-of-code  |time.sleep and os.clear|
 | Day 28  | https://replit.com/@monikarana/day28100days  |small video game simulation with while loops|
+| Day 29  | https://replit.com/@monikarana/day29100-days  |color fonts in console output|
 
 
 
